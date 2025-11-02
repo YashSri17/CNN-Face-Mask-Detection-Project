@@ -1,8 +1,9 @@
-##😷 Face Mask Detection using CNN
+---
+#😷 Face Mask Detection using CNN
 
 A Convolutional Neural Network (CNN) built with TensorFlow and Keras to automatically detect whether a person in an image is wearing a mask or not wearing a mask.
 This project uses deep learning techniques for binary image classification and can be extended for real-time mask detection using a webcam or CCTV feed.
-
+---
 ##📁 Project Structure
 ├── data/
 │   ├── with_mask/
